@@ -1,0 +1,20 @@
+Title: SCOPING 4CHAN/POL/
+
+>>> import pip
+>>> pipfailed = pip.main(["install", "apscheduler"])
+
+python3 ld
+
+top
+
+Avoid bringing in too much cultural findings - look at the platform affordances more
+Software studies/digital methods convergence
+Coding as a means to do software studies?
+
+Make meta-scripts!
+- How long will it take before a post disappears?
+- When do the most post appear?
+- 'Scoping' the platform
+- Necessity to do further research on the culture
+
+
